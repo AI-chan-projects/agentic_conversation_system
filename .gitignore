@@ -1,0 +1,12 @@
+# 가상환경 폴더 (venv, .venv, env 등으로 설정했다면 모두 포함)
+venv/
+.venv/
+env/
+venv_dir/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+
+# 운영체제 관련 파일
+.DS_Store
