@@ -48,3 +48,9 @@ uvicorn app.main:app --reload
 streamlit run app/ui/dashboard.py
 ```
 
+## 미래 구현 예정
+1. 다국어 번역 기능 with qwen
+2. Simulation 내 npc의 대화 배치 내용 요약
+3. world의 목적 및 배경 부여 (system prompt)
+4. ai memory query interface
+
