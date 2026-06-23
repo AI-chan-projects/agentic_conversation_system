@@ -54,3 +54,15 @@ streamlit run app/ui/dashboard.py
 3. world의 목적 및 배경 부여 (system prompt)
 4. ai memory query interface
 
+## 대시보드 프리뷰
+
+
+https://github.com/user-attachments/assets/2ccb2a85-2d70-44c5-a9b6-5460ccfd7ffc
+
+
+
+https://github.com/user-attachments/assets/c8150add-565e-4b5d-a0aa-621237539c3b
+
+
+
+
